@@ -1,0 +1,8 @@
+.tmc/
+.tmcproject.yml
+.vscode/
+.idea/
+*.class
+target/
+bin/
+out/
